@@ -16,7 +16,7 @@ Blockchain: TON Smart Contracts | Frontend: Telegram Mini-apps| Backend: Node.js
 📱 Channel: HangarX Channel (https://t.me/+sk1iTN2HyUNlMDVl)  
 📱 Twitter: HangarX Twitter (https://x.com/Hangarxio)
 
-Try MU TON of Heroes Beta Version: (https://t.me/TonOfHeroBetaTestingBot) The game will merge into HangarX at the end of December
+[Try MU TON of Heroes Beta Version:](https://t.me/TonOfHeroBetaTestingBot) The game will merge into HangarX at the end of December
 
 🛣 Status: 
  Telegram Mini App: Available -  Fully integrate with TON Blockchain 
