@@ -13,7 +13,9 @@ Blockchain: TON Smart Contracts | Frontend: Telegram Mini-apps| Backend: Node.js
  
 📊 Official Links:   
 📱 App: HangarX Gaming Bot (https://t.me/hangarxgaming_bot)   |
-📱 Channel: HangarX Channel (https://t.me/+sk1iTN2HyUNlMDVl)   
+
+📱 Channel: HangarX Channel (https://t.me/+sk1iTN2HyUNlMDVl)  
+
 📱 Twitter: HangarX Twitter (https://x.com/Hangarxio)
 Try MU TON of Heroes Beta Version: (https://t.me/TonOfHeroBetaTestingBot) The game will merge into HangarX at the end of December
 
